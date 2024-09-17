@@ -6,6 +6,7 @@
 <h4>Aula 4: <a href="https://github.com/MaineCalabrezi13/ProgramacaoAplicada/tree/main/Aula%2026.08">Parâmetros, Sobrecarga e Argumentos Padrão</h4>
 <h4>Aula 5: <a href="https://github.com/MaineCalabrezi13/ProgramacaoAplicada/tree/main/02.09">Vetores e Matrizes</h4>
 <h4>Aula 6: Prova</h4>
+<h4>Aula 7: <a href="https://github.com/MaineCalabrezi13/ProgramacaoAplicada/tree/main/Aula%2016.09">Classes e objetos</h4>
 
 
 
