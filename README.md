@@ -8,6 +8,7 @@
 <h4>Aula 6: Prova</h4>
 <h4>Aula 7: <a href="https://github.com/MaineCalabrezi13/ProgramacaoAplicada/tree/main/Aula%2016.09">Classes e objetos</h4>
 <h4>Aula 8: <a href="https://github.com/MaineCalabrezi13/ProgramacaoAplicada/tree/main/Aula%2023.09">Construtores</h4>
+<h4>Aula 9: <a href="https://github.com/MaineCalabrezi13/ProgramacaoAplicada/tree/main/Aula%2030.09">Trabalho</h4>
 
 
 
