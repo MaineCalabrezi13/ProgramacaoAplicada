@@ -12,6 +12,9 @@
 <h4>Aula 10: <a href="https://github.com/MaineCalabrezi13/ProgramacaoAplicada/tree/main/07.10">Sobrecarga de operadores</h4>
 <h4>Aula 11: <a href="https://github.com/MaineCalabrezi13/ProgramacaoAplicada/tree/main/Aula%2021.10">Fundamentos de Herança</h4>
 <h4>Aula 12: <a href="https://github.com/MaineCalabrezi13/ProgramacaoAplicada/tree/main/Aula%2004.11">Polimorfismo e Funções Virtuais</h4>
+<h4>Aula 13: <a href="">Funções Recursivas</h4>
+<h4>Aula 14: <a href="">Prova 2</h4>
+<h4>Aula 15 e 16: <a href="">Confecção do Projeto Final</h4>
 
 
 
